@@ -1,4 +1,4 @@
 source "https://rubygems.org"
-ruby '2.2.0'
-gem 'sinatra', '1.4.7'
+ruby '2.7.0'
+gem 'sinatra', '2.0.8'
 gem 'encrypted_strings'
